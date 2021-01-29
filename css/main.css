@@ -142,5 +142,35 @@ h3 {
 }
 
 .about__dop {
-	    margin-bottom: 0;
+	margin-bottom: 0;
 }
+
+.services {
+	padding-top: 142px;
+}
+
+.section-title__label {
+	text-transform: uppercase;
+	font-size: 14px;
+	letter-spacing: 0.25em;
+	color: #8F8F8F;
+	margin-bottom: 40px;
+}
+
+.section-title__heading {
+
+}
+
+.serv-list {
+	color: #8D8D8D;
+	    margin-top: 67px;
+}
+
+.serv-list__item {
+	margin-bottom: 20px;
+}
+
+.serv-list_left {
+	margin-left: 37px;
+}
+
